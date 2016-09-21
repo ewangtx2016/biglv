@@ -3,3 +3,7 @@ TortoiseGit 是 TortoiseSVN 的 Git 版本，TortoiseGit 用于迁移 TortoiseSV
 另外，楼主个人感觉 TortoiseGit 用起来很方便，跟 TortoiseSVN 一样可以通过直接观察文件图标来查看文件当前的状态，在 Windows 下的表现确实没得说，所以放在第一位推荐。
 
 支持系统：Windows  （免费软件）
+
+
+
+git is node
