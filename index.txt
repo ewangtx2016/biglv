@@ -1,18 +1,1 @@
-TortoiseGit 是 TortoiseSVN 的 Git 版本，TortoiseGit 用于迁移 TortoiseSVN 到 TortoiseGit，一直以来 Git 在 Windows 平台没有好用 GUI 客户端，现在 TortoiseGit 的出现给 Windows 开发者带来福音，目前 TortoiseGit 是 1.8.6.0 版本，一个开源的项目，欢迎你的加入贡献代码。（摘自oschina）
 
-另外，楼主个人感觉 TortoiseGit 用起来很方便，跟 TortoiseSVN 一样可以通过直接观察文件图标来查看文件当前的状态，在 Windows 下的表现确实没得说，所以放在第一位推荐。
-
-支持系统：Windows  （免费软件）
-
-gigigigigigigiigi
-
-
-
-真的是太牛逼了 ，不知道应该怎么做了
-
-
-
-branch 分支切换内容  真的挺吊的 你知道吗
-
-
-这个我真的不知道呢  这是为什么呢？不知道为什么，不知道为什么你说什么，那我这知道
